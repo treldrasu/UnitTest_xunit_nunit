@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\Schulungen\\UnitTest_x_n\\NUnit\\UsingnUnit.csproj": {}
+    "F:\\Schulungen\\UnitTest_x_n\\NUnit\\UsingnUnit.csproj": {}
   },
   "projects": {
-    "f:\\Schulungen\\UnitTest_x_n\\NUnit\\UsingnUnit.csproj": {
+    "F:\\Schulungen\\UnitTest_x_n\\NUnit\\UsingnUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\Schulungen\\UnitTest_x_n\\NUnit\\UsingnUnit.csproj",
+        "projectUniqueName": "F:\\Schulungen\\UnitTest_x_n\\NUnit\\UsingnUnit.csproj",
         "projectName": "UsingnUnit",
-        "projectPath": "f:\\Schulungen\\UnitTest_x_n\\NUnit\\UsingnUnit.csproj",
+        "projectPath": "F:\\Schulungen\\UnitTest_x_n\\NUnit\\UsingnUnit.csproj",
         "packagesPath": "C:\\Users\\kaief\\.nuget\\packages\\",
-        "outputPath": "f:\\Schulungen\\UnitTest_x_n\\NUnit\\obj\\",
+        "outputPath": "F:\\Schulungen\\UnitTest_x_n\\NUnit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kaief\\AppData\\Roaming\\NuGet\\NuGet.Config"
