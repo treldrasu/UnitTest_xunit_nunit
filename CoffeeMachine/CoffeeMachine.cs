@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Threading;
 
+namespace CoffeeMachine;
+
 public enum CoffeeType { Black, Latte }
 public enum CupSize { Small, Medium, Large }
 
@@ -16,7 +18,8 @@ public class CoffeeMachine
 
     public string BrewCoffee(CoffeeType coffeeType, CupSize cupSize)
     {
-        if (CoffeeBeansLevel < 10 || WaterLevel < 20 || WasteContainerLevel > 80)
+
+        if (CoffeeBeansLevel < 10 || WaterLevel < 10 || WasteContainerLevel > 80)
             return "Kann keinen Kaffee brühen: Überprüfen Sie die Füllstände.";
 
         GrindBeans();
@@ -28,7 +31,7 @@ public class CoffeeMachine
 
         // Simulate brewing process
         CoffeeBeansLevel -= 10;
-        WaterLevel -= 20;
+        WaterLevel -= 10;
         WasteContainerLevel += 10;
 
         return $"{coffeeType} in einer {cupSize} Tasse ist fertig!";

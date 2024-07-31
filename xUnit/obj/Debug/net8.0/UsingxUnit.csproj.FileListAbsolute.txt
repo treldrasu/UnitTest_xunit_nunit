@@ -98,3 +98,9 @@ f:\Schulungen\UnitTest_x_n\xUnit\obj\Debug\net8.0\refint\UsingxUnit.dll
 f:\Schulungen\UnitTest_x_n\xUnit\obj\Debug\net8.0\UsingxUnit.pdb
 F:\Schulungen\UnitTest_x_n\xUnit\obj\Debug\net8.0\UsingxUnit.genruntimeconfig.cache
 F:\Schulungen\UnitTest_x_n\xUnit\obj\Debug\net8.0\ref\UsingxUnit.dll
+f:\Schulungen\UnitTest_x_n\xUnit\bin\Debug\net8.0\CoverletSourceRootsMapping_UsingxUnit
+f:\Schulungen\UnitTest_x_n\xUnit\bin\Debug\net8.0\CoffeeMachineProject.deps.json
+f:\Schulungen\UnitTest_x_n\xUnit\bin\Debug\net8.0\CoffeeMachineProject.runtimeconfig.json
+f:\Schulungen\UnitTest_x_n\xUnit\bin\Debug\net8.0\CoffeeMachineProject.exe
+f:\Schulungen\UnitTest_x_n\xUnit\bin\Debug\net8.0\CoffeeMachineProject.dll
+f:\Schulungen\UnitTest_x_n\xUnit\bin\Debug\net8.0\CoffeeMachineProject.pdb

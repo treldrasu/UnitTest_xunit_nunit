@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingxUnit", "xUnit\UsingxU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumbFunction", "DumbFunction\DumbFunction.csproj", "{3024D8D6-2942-4175-8CB1-8BAD83FEC632}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachine", "CoffeeMachine\CoffeeMachine.csproj", "{47A37579-72B4-456F-A92C-54F2A1CA93F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachineProject", "CoffeeMachine\CoffeeMachineProject.csproj", "{47A37579-72B4-456F-A92C-54F2A1CA93F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\CoffeeMachine.csproj",
-      "projectName": "CoffeeMachine",
-      "projectPath": "F:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\CoffeeMachine.csproj",
+      "projectUniqueName": "F:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\CoffeeMachineProject.csproj",
+      "projectName": "CoffeeMachineProject",
+      "projectPath": "F:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\CoffeeMachineProject.csproj",
       "packagesPath": "C:\\Users\\kaief\\.nuget\\packages\\",
       "outputPath": "F:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\obj\\",
       "projectStyle": "PackageReference",
@@ -67,5 +67,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem beim Lesen der Cachedatei \"F:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\obj\\project.nuget.cache\": Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

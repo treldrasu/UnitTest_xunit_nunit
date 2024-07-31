@@ -1,9 +1,11 @@
 ﻿using System;
+namespace CoffeeMachine;
 
 class Program
 {
     static void Main(string[] args)
     {
+
         CoffeeMachine machine = new CoffeeMachine();
 
         while (true)
@@ -77,7 +79,7 @@ class Program
     {
         Console.WriteLine("Geben Sie die gewünschte Wassertemperatur (80-100 Grad Celsius) ein:");
         double temperature = double.Parse(Console.ReadLine());
-        
+
         try
         {
             machine.SetWaterTemperature(temperature);
