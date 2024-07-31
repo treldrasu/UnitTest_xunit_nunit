@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Schulungen\\UnitTest_x_n\\DumbFunction\\DumbFunction.csproj": {}
+    "f:\\Schulungen\\UnitTest_x_n\\DumbFunction\\DumbFunction.csproj": {}
   },
   "projects": {
-    "F:\\Schulungen\\UnitTest_x_n\\DumbFunction\\DumbFunction.csproj": {
+    "f:\\Schulungen\\UnitTest_x_n\\DumbFunction\\DumbFunction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Schulungen\\UnitTest_x_n\\DumbFunction\\DumbFunction.csproj",
+        "projectUniqueName": "f:\\Schulungen\\UnitTest_x_n\\DumbFunction\\DumbFunction.csproj",
         "projectName": "DumbFunction",
-        "projectPath": "F:\\Schulungen\\UnitTest_x_n\\DumbFunction\\DumbFunction.csproj",
+        "projectPath": "f:\\Schulungen\\UnitTest_x_n\\DumbFunction\\DumbFunction.csproj",
         "packagesPath": "C:\\Users\\kaief\\.nuget\\packages\\",
-        "outputPath": "F:\\Schulungen\\UnitTest_x_n\\DumbFunction\\obj\\",
+        "outputPath": "f:\\Schulungen\\UnitTest_x_n\\DumbFunction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kaief\\AppData\\Roaming\\NuGet\\NuGet.Config"

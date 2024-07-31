@@ -1,0 +1,15 @@
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.AssemblyInfoInputs.cache
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.AssemblyInfo.cs
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.csproj.CoreCompileInputs.cache
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.sourcelink.json
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\bin\Debug\net8.0\CoffeeMachine.exe
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\bin\Debug\net8.0\CoffeeMachine.deps.json
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\bin\Debug\net8.0\CoffeeMachine.runtimeconfig.json
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\bin\Debug\net8.0\CoffeeMachine.dll
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\bin\Debug\net8.0\CoffeeMachine.pdb
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.dll
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\obj\Debug\net8.0\refint\CoffeeMachine.dll
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.pdb
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\obj\Debug\net8.0\CoffeeMachine.genruntimeconfig.cache
+F:\Schulungen\UnitTest_x_n\CoffeeMachine\obj\Debug\net8.0\ref\CoffeeMachine.dll
