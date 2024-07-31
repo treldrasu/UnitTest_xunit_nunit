@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\CoffeeMachine.csproj": {}
+    "F:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\CoffeeMachine.csproj": {}
   },
   "projects": {
-    "f:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\CoffeeMachine.csproj": {
+    "F:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\CoffeeMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\CoffeeMachine.csproj",
+        "projectUniqueName": "F:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\CoffeeMachine.csproj",
         "projectName": "CoffeeMachine",
-        "projectPath": "f:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\CoffeeMachine.csproj",
+        "projectPath": "F:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\CoffeeMachine.csproj",
         "packagesPath": "C:\\Users\\kaief\\.nuget\\packages\\",
-        "outputPath": "f:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\obj\\",
+        "outputPath": "F:\\Schulungen\\UnitTest_x_n\\CoffeeMachine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kaief\\AppData\\Roaming\\NuGet\\NuGet.Config"
