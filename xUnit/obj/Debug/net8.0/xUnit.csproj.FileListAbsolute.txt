@@ -1,6 +1,0 @@
-F:\Schulungen\UnitTest_x_n\xUnit\obj\Debug\net8.0\xUnit.csproj.AssemblyReference.cache
-F:\Schulungen\UnitTest_x_n\xUnit\obj\Debug\net8.0\xUnit.GeneratedMSBuildEditorConfig.editorconfig
-F:\Schulungen\UnitTest_x_n\xUnit\obj\Debug\net8.0\xUnit.AssemblyInfoInputs.cache
-F:\Schulungen\UnitTest_x_n\xUnit\obj\Debug\net8.0\xUnit.AssemblyInfo.cs
-F:\Schulungen\UnitTest_x_n\xUnit\obj\Debug\net8.0\xUnit.csproj.CoreCompileInputs.cache
-F:\Schulungen\UnitTest_x_n\xUnit\obj\Debug\net8.0\xUnit.sourcelink.json
