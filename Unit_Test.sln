@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumbFunction", "DumbFunctio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachineProject", "CoffeeMachine\CoffeeMachineProject.csproj", "{47A37579-72B4-456F-A92C-54F2A1CA93F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{4D7B4B1F-CF97-4B6D-91E3-DC288978CD3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{47A37579-72B4-456F-A92C-54F2A1CA93F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47A37579-72B4-456F-A92C-54F2A1CA93F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47A37579-72B4-456F-A92C-54F2A1CA93F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D7B4B1F-CF97-4B6D-91E3-DC288978CD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7B4B1F-CF97-4B6D-91E3-DC288978CD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7B4B1F-CF97-4B6D-91E3-DC288978CD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7B4B1F-CF97-4B6D-91E3-DC288978CD3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

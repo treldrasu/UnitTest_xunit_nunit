@@ -11,6 +11,7 @@ public class MathOperationsTests
         _mathOperations = new MathOperations();
     }
 
+    [Test]
     public void Add_WhenCalled_ReturnsSum()
     {
         int result = _mathOperations.Add(2, 3);
